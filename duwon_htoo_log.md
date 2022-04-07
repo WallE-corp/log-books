@@ -14,3 +14,17 @@ Started with the project group meeting and discussed what we've accomplished las
 
 Had a meeting with the backend team and we established the connection to firebase, Abdel and Ahmad further worked on the firebase so that we can read/write data in the database.
 
+## 2022-04-06, Wednesday
+
+The backend team had a quick meeting to discuss what are have to accomplish this week and planned what everyone should do, we've decided that Lucas and Me will work on the addPoint function we then started to read the documentations.
+
+
+## 2022-04-07, Thursday
+
+We had a sprint meeting and discussed what we did and how much we had left on what we started with and we made a few changes of the structure in the database, later this day the function was finally done.
+
+## 2022-04-08, Friday
+
+## 2022-04-11, Monday
+
+## 2022-04-12, Tuesday
