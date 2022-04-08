@@ -1,0 +1,27 @@
+2022-03-28
+Meeting after the lecture to decide who should work with what
+
+2022-03-30
+Meeting (4 hours) to plan the project
+ 
+I went through how mbot works
+
+2022-03-31
+Download Arduino IDE and makeblock, get started with the robot (drive forward until he finds the line)
+
+2022-04-05
+I bought a cable (usb to micro usb) to connect the raspberry Pi with Arduino
+
+Discuss how communication between the Pi and Arduino should be (come to the conclusion that we need to work with serial communications)
+
+2022-04-06
+Managed to connect the Pi with the Arduino through serial communications (we can send data from the Arduino to the Pi and from the Pi to the Arduino)
+
+2022-04-07
+Started implementing so the robot follows the tape to be able to map.
+
+Connect the camera with the Pi and tested if it works (we could take a picture and save it in the Pi)
+
+Tested running the robot over a socket connection (it was possible to control the robot)
+
+
