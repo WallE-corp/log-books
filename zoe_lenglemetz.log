@@ -1,0 +1,20 @@
+Week 1 :
+ 
+- meeting with the whole team to decide and understand all the tasks
+- creation of the notion where we put all the files and have our calendar of tasks
+- creation of a small documentation explaining the udp vs TCP protocols so everyone understand the two protocole and we can make decision
+- creation of the wireframe for the mobile app so we have an overview of what the design will look like
+
+Week 2 : 
+
+  - init the mobile app on react native
+  - created the UI for the app based on the figma created earlier
+  - meeting with Husqvarna's team
+  
+Week 3 : 
+
+  - meeting to decide what the sprint should be about
+  - talked about the whole protocole of mapping and starting everything
+  - creation of the task for the srpint on the notion
+  - creation of a modal pop up that shows when the app is open, it is only a start mapping button (used to send the signal to the robot to start mapping)
+  - started working on the sockets protocole and try and testing it
