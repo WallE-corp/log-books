@@ -23,8 +23,16 @@ The backend team had a quick meeting to discuss what are have to accomplish this
 
 We had a sprint meeting and discussed what we did and how much we had left on what we started with and we made a few changes of the structure in the database, later this day the function was finally done.
 
-## 2022-04-08, Friday
 
 ## 2022-04-11, Monday
 
-## 2022-04-12, Tuesday
+We had a long meeting and discussed about the whole project and essentially restructed a few things so that we can go in the right direction.
+
+## 2022-04-12 Tuesday - 2020-04-20, Wednesday
+
+We had a meeting with the team in the backend early into the week tasks were appointed to each members, i took the task to set up a server on Azure for us to connect to, we've also discussed about AWS because in the past experience we are abit more familiar to it than Azure which i personally never have experience in, since then the only thing to do was starting to figure out how to make it work.
+
+During this time i got sick a few days and didn't get alot done except reading documentations and watching tutorials trying to figure out how to make it work and also which one is the one we should go for (azure or aws), turns out to be a team decision later into the week that AWS was the one to choose and then it was easier to work on and make it work as planned.
+
+
+
