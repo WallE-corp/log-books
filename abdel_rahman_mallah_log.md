@@ -41,7 +41,7 @@ The day started with a daily meeting for 15 minutes, After the meeting I worked 
 
 ---
 
-## Sprint1 -- 16 Hours with lectures
+## Sprint1 -- 20 Hours with lectures
 
 ### 2022-04-11 Monday. 
 
@@ -65,7 +65,7 @@ The tasks that we the backend team have to do those Taskes:
 ### 2022-04-12 Tuesday
 
 The Day Started with a meeting with the backend team developers. 
-Each one of the developers took a task. I worked agian on the getPathPoints which I also worked on the last sprint, I worked on it because it needed some changes after the firebase structure has changed
+Each one of the developers took a task. I worked again on the getPathPoints which I also worked on the last sprint, I worked on it because it needed some changes after the firebase structure has changed
 I also worked on getAllMaps.
 
 ---
@@ -78,3 +78,26 @@ Then I sat with Lucas and explained the new architecture that we are going to fo
 ### 2022-04-14 Thursday
 
 The day started with a daily meeting with the product owner of the project Victor, We talked about what the backend team did funtil today.
+
+
+### 2022-04-15 Friday
+
+I worked on implementing the getAllBorderPoints, and addBorderPoint functions.
+
+
+## Sprint2 -- ?? Hours with lectures
+
+### 2022-04-19 Tuesday
+
+The day as usual started with a meeting with the group. We discussed what we did last week, and what is needed to be done on this week. I had to delete the functions that I implemented on Friday because the group though it's not needed in the project to collect the map border.
+
+### 2022-05-20 Wednesday
+
+I did not work on the project my self, by I talked little bit with Duwon about the server that we need, I explained what we actually need. Because there was a missunderstanding. 
+Duwon worked on creating API Server on Azure which we don't need, what we need is a server to run ours Project (API) on. Then Joshua and Duwon worked on AWS server.
+
+### 2022-05-21 Thursday
+
+The day started with a meeing with the group. Then I worked on fixing a bug issue that was in my previous code that Joshua noticed and created an issue on github.I fixed the bug and merged it to main. 
+Then I worked on creating mockup data (path) to the mobile team, so they can try to show the path on the mobile application. 
+
