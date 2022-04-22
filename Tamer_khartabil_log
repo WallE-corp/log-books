@@ -50,7 +50,7 @@ The calculation of (x,y) is done, we made some tests to make sure the we get rig
 implement a function to detect obstacle, so the robot will detect the obstacle if the distance less than 11 cm, 
 then reverse and turn randomly
 
-2022-04-21
+2022-04-22
 Meeting with the group, we decided to connect the robot to the backend next week och see if we could send something 
 to the backend
 
