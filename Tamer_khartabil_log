@@ -24,4 +24,41 @@ Connect the camera with the Pi and tested if it works (we could take a picture a
 
 Tested running the robot over a socket connection (it was possible to control the robot)
 
+2022-04-11
+A meeting to discuss how far we have come with the project. we discuss how we intend to send position to the backend 
+(by using gyrp sensor and accelerometer we can calculate the velocity and angle) and how we do when we discover an object 
+(we reverse a bit and then turn randomly).
+
+2022-04-13
+I, Tim and Erik managed to put installations for gyroscope in the Arduino IDE to get the direction,
+we also tried to set up the insallation for the accelerometer(ADXL345) in the Raspberry Pi to get the acceleration to 
+be able to calculate the velocity. It was copmlex to calculate the velocity to get (x,y) coordinates.
+
+2022-04-14
+After a long reseach, we realized that we could calculate the velocity by calculating the RPM and the diameter of the wheel.
+We tried this method and we managed to get the velocity of the robot. Since we have the velocity and the direction (the angle
+from gyro scope), the dead reckoning algorithm should be usefull to get (x,y) coordinates.
+
+Made some changes in the code to make it looks better (namn variables and structure)
+
+2022-04-15
+Meeting with the whole group to discuss what we have done and what we are going to do next week
+
+2022-04-21
+The calculation of (x,y) is done, we made some tests to make sure the we get right coordinates. 
+
+implement a function to detect obstacle, so the robot will detect the obstacle if the distance less than 11 cm, 
+then reverse and turn randomly
+
+2022-04-21
+Meeting with the group, we decided to connect the robot to the backend next week och see if we could send something 
+to the backend
+
+
+
+
+
+
+
+
 
