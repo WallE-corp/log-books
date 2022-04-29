@@ -54,6 +54,16 @@ then reverse and turn randomly
 Meeting with the group, we decided to connect the robot to the backend next week och see if we could send something 
 to the backend
 
+2022-04-28
+Can not send data to the backend beasuce the server is not up.
+The line follower sensing function is implemented now. 
+Setting up switch case to handle either manual or automatic mode.
+
+2022-04-29
+Meeting with the group to discuss how we should send some data to the backend next week.
+
+
+
 
 
 
