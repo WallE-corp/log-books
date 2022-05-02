@@ -19,3 +19,18 @@ Week 3 :
   - creation of the task for the srpint on the notion
   - creation of a modal pop up that shows when the app is open, it is only a start mapping button (used to send the signal to the robot to start mapping)
   - started working on the sockets protocole and try and testing it
+  
+  Week 4: 
+  
+  - started creating the draw line function
+  - meeting with husqvarna
+  - meeting wiht the team to talk about changes we have to do, what the sprint is about and how are the tasks advancing
+  - started to learn about the svg and line function that i will use to draw the map
+  - created a false json with flase data
+  - started the function that will claculate the size of each pixel so that the map is draw at max size every refresh
+  
+  week 5:
+  
+  - ablt to draw the json file map
+  - the size of each lines adpat to the max size of the coordinates
+  - still a problem handling negative numbers for the size of the lines
