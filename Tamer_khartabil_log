@@ -62,6 +62,18 @@ Setting up switch case to handle either manual or automatic mode.
 2022-04-29
 Meeting with the group to discuss how we should send some data to the backend next week.
 
+2022-05-03
+We booked a backend meeting to test send something from robot to backend
+
+2022-05-04
+connection from robot to backend works.
+with the help of the backend team we could send (x,y) coordinates, and we also send a picture to 
+database (firebase) when the robot detect obstacles.
+we decided to send data from the mobile to the robot via the backend tomorrow
+
+2022-05-05
+
+
 
 
 
