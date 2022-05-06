@@ -67,11 +67,19 @@ We booked a backend meeting to test send something from robot to backend
 
 2022-05-04
 connection from robot to backend works.
-with the help of the backend team we could send (x,y) coordinates, and we also send a picture to 
-database (firebase) when the robot detect obstacles.
-we decided to send data from the mobile to the robot via the backend tomorrow
+with the help of the backend team we could send (x,y) coordinates, and we also send a picture and save it in 
+the database (firebase) when the robot detect obstacles.
+we decided to send data from the mobile to the robot via the backend tomorrow.
 
-2022-05-05
+2022-05-05 
+One of the backend team member did a test simulation, to test the connection between the mobil and the robot over a socket. 
+So we tried to controlling the robot through test simulation by sending "forward", "backwrad", "left", "right" and it works. 
+
+Since Raspberry pi zero is quite slow, we got a Raspberry Pi 4 + camera from Anderas och we switchit to it.
+
+2022-05-06
+Meeting with the whole group to discuss what is everyone doing, about the doucmentation and what is left for every part.
+
 
 
 
