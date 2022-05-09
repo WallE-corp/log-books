@@ -101,3 +101,38 @@ Duwon worked on creating API Server on Azure which we don't need, what we need i
 The day started with a meeing with the group. Then I worked on fixing a bug issue that was in my previous code that Joshua noticed and created an issue on github.I fixed the bug and merged it to main. 
 Then I worked on creating mockup data (path) to the mobile team, so they can try to show the path on the mobile application. 
 
+
+### 2022-05-22 Friday
+
+The day started with a meeting with the group, where we talked about what we have worked with under this sprint and started to plan to the next sprint. 
+I will work with getting the lastPointId from the firebase and manage the addPoint function.
+
+
+### 2022-05-25 Monday
+
+Today I worked on the function managePoint, where I had to getTheLastAdded Point and add it to new point coordinates{x, y}. So when the mobile team read the points from the database they will be able to show the right point coodinates on the map.
+
+
+### 2022-05-26 Tuesday
+
+I still working on the function managePoint. What I did was to read all the points that we have in a map and save the last added point and add its coordinates to the new point, before saving it again in the database. 
+
+### 2022-05-27 Wednesday
+
+Today Ahmed and Me Had a long dicussion about if I did it in the right way. Ahmed had another Idea to implement the function, His Idea was to save the lastPoint in a JSON file, before we add it to the database, so when we want to add a new point we read the data from file instead of reading it from database. I though that his idea was better implementation because if we have a lot of data (points) in the database it will take few milliseconds to get the response. But by saving it in a JSON file we can secure that get the data in a faster way.
+
+
+### 2022-05-28 Thursday
+
+I worked again on the function (managePoint) and reimplemented it. Now it save the first ever created point to the file, and then whener we want to add a new point, we read the last added point coordinates from the JSON file and add them to the new added point. Then we write over the new added point to the file, so it can be used in the same way when we create/add a new point.
+
+
+### 2022-05-29 Friday
+
+The day started with a meeting with the group, where we talked about what we have worked with under this sprint and started to plan to the next sprint. 
+I did not have a specifiq task to do under this sprint.
+
+
+### 2022-06-03
+
+
