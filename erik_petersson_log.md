@@ -47,7 +47,7 @@ Worked on obstacle detection function.
 
 Weekly planning session.
 
-# **2022-04-28 torsdag**
+# **2022-04-28**
 
 Setting up function for camera recognition function to prevent overwriting of the picture taken. 
 Setting up switch statement to handle automatic and manual mode.
