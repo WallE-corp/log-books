@@ -20,3 +20,24 @@ We had a meeting where we discussed feedback received from the meeting with the 
 Implemented the functionality for calculating once position through an inertial navigation system that was implemented via dead reckoning. This feature was moved from the PI to the Arduino  board on the robot in order to ease the load for the pi since it was becoming overloaded. Allowing us to send our x and y position relative to our last update. Additionally, setup the sending of multiple pieces of data such as the object detected in addition to position data.
 ## 2022-04-22, Friday.
 Checkup meeting regarding next weeks steps and the structure behind the communication between the phone and robot.
+
+## 2022-04-27, Wednesday.
+Worked further on the robot's own functions as well as created separate functions to be called instead of having all the code in the same block, thus making for a code that is easier to read and understand.
+
+## 2022-04-28, Thursday.
+Could not test sending data to the backend since the server was not up and running, although fixed some issues with the line follower sensing function. Also worked on setting up a switch case statement which could handle all the functionality required for the commands issued by the mobile application. And the logic behind that functionality.
+
+## 2022-05-04, Wednesday.
+Worked with sending position data to the backend and made sure that they could receive it. Also worked on sending the picture alongside obstacle coordinates once an object had been detected by the ultrasonic sensor on board the mower. 
+
+## 2022-05-05, Thursday.
+Worked with accepting and acting on commands sent by the mobile phone, although we had no access to the mobile team, so we had to simulate the connection. At the same time some changes within the structure of the switch case statements in the Arduino as well as some code for the raspberry pi were made in order to make it run more efficient. Thus resulting in hardly no delay. Also swapped from the Raspberry Pi zero to a Raspberry Pi 4, supplied by the teacher. 
+
+## 2022-05-06, Friday.
+Group meeting to discuss where everybody is at, their status, and what to do moving forward, a focus was put on not overlooking the documentation part.
+
+## 2022-05-11, Wednesday.
+Encountered some issues regarding sending and receiving data at the same time since the serial communication used seemed to be half-duplex and not full-duplex which lead to our commands being overwritten by our data sent and vise versa. This lead to us switching how we sent the signals and whatnot.
+
+## 2022-05-12, Thursday.
+Resolved some minor issues with the basic functions, seemed to be an issue of low battery levels.
