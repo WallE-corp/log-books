@@ -80,7 +80,29 @@ Since Raspberry pi zero is quite slow, we got a Raspberry Pi 4 + camera from And
 2022-05-06
 Meeting with the whole group to discuss what is everyone doing, about the doucmentation and what is left for every part.
 
+2022-05-11
+since we use serial commincation between Raspberry Pi and Arduino , we got some error when we sending and reciving data at the same time. 
+The problem was solved by switching how we sent the data.
 
+2022-05-12
+Made sure that every functions are done och ready to test next week.
+
+2022-05-17
+A meeting with the mobile team at university to test controlling the robol over a socket via mobile. 
+The manual and auto controlling works as expected.
+
+2022-05-19
+The mobil team still working on drawing the map.
+By using the test simulation that made of Joshua, we made sure that the backend is reiving (x,y) coordinates and the image, 
+and save them in the database (firebase).
+
+2022-05-20
+Tim and Erik worked on writing the software documentation and lessons learn documentation, I was with the mobile to test if drawing the map works. 
+The obstacal and the map is not drawing as expected, mobile team worked on it and they fixed.
+We changed the robots battery and we made the final video for the presenation.
+
+2022-05-21
+upload the final code (both Raspberry Pi and Arduino) on the github.
 
 
 
