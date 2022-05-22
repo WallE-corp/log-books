@@ -52,3 +52,22 @@ The initial week felt good. I unfortunately missed the first part of the lab ses
 > During the week I helped Du Won with his task which was finishing the function to upload image files to google cloud platform. We worked together one day utilizing pair programming. We implemented the function and wrote test code for it. A PR was made.
 
 > I unfortunately ended up at the hostpital this week on Wednesday so am not able to do much rest of the week. 
+
+## Week 18
+> A lot of code clean up and refacotring for optimizationi on the backend. Wrote more tests for backend. Updated README for backend so that anyone trying to set up. 
+
+> Raspberry code. Fixed issue with requirement.txt. Created a connection with the simulation so now the simulation can fully replace the arduino during development. 
+
+> Development tools. Rewrote simulation in Unity, took only half a day. Much better than in c++. Updated readme. Added better sensor representation in the simulation. 
+
+## Week 19
+> Development tools. Fixed issue with both tools files being corrupted. Updated win form tools to have better functionality and easier to use. MobileMock tools (win form tool) can now see obstacle images and data, as well as path information.
+
+> Backend. More refactoring. Rewrote functions to use async/await and better naming + separation. Added documentation for the socket protocol. Wrote tests. Updated README. Did some PR reviews. 
+
+## Week 20
+> Backend. PR reviews and merges. DevOps, setting up AWS. Assisted others a lot in their last task, both WallE and Mobile, e.g. with WallE position data and dead reckoning algorithm, autonomous movement and so on and mobile with obstacle events and path drawing.
+
+> Wrote documetation for backend and the raspberry pi on mower as well as documentation for overall architecture. 
+
+> A lot of team work finalizing everything.
