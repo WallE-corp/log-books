@@ -1,6 +1,6 @@
 # Ahmad Abdullahs log-book
 
-
+in this course i worked at average 20 hours including meetings and lectures associated with the course.
 # Week 13
 ## 2022-03-28, Monday.
 
@@ -77,7 +77,7 @@ The duties that we, the backend team, must do are as follows:
  
 ---
 
-### 2022-04-12 Tuesday
+## 2022-04-12 Tuesday
  
 The day began with a meeting with the backend development team.
 Each developer was assigned a task. I worked on documentation and swagger code and some code test setup, because it needed some tweaks after the new endpoints we decided firebase structure changed.
@@ -96,7 +96,7 @@ Because Lucas was sick that day, I and Abdel sat with him and outlined the new a
 ---
 
 
-### 2022-04-14 Thursday
+## 2022-04-14 Thursday
 
  
 
@@ -122,14 +122,14 @@ collecting the map boundary was unnecessary for the project.
 
 ---
 
-### 2022-04-21 Thursday
+## 2022-04-21 Thursday
  
 A group meeting kicked off the day. Abdelrahman discovered a weakness in my previous code and reported an issue on github. The fix was merged into main.
 Then I developed path mockup data for the mobile team to display in the app.
  
 ---
 
-### 2022-04-22 Friday
+## 2022-04-22 Friday
 
  
 The day started with a group meeting in which we discussed what we had accomplished throughout the sprint and started planning for the next one.
@@ -137,34 +137,93 @@ I'll be in charge of getting the lastPointId with abdel from Firebase and admini
  
 ---
 
-### 2022-04-25 Monday
+## 2022-04-25 Monday
 
  
 Today I worked on the function managePoint, where I had to getTheLastAdded Point and add it to new point coordinates{x, y}. So when the mobile team read the points from the database they will be able to show the right point coodinates on the map.
  
 ---
 
-### 2022-04-26 Tuesday
+## 2022-04-26 Tuesday
  
 I started to work on get image classification, 
 so first of all i needed to decide which classification service is best. it was a bit hard to choose between the diffrent services since every one had its ups and down
  
 ---
-### 2022-04-27 Wednesday
+## 2022-04-27 Wednesday
  
 Today Ahmed and Me Had a long dicussion about if I did it in the right way. Ahmed had another Idea to implement the function, His Idea was to save the lastPoint in a JSON file, before we add it to the database, so when we want to add a new point we read the data from file instead of reading it from database. I though that his idea was better implementation because if we have a lot of data (points) in the database it will take few milliseconds to get the response. But by saving it in a JSON file we can secure that get the data in a faster way.
  
 ---
 
-### 2022-04-28 Thursday
+## 2022-04-28 Thursday
  
 Abdel and I met today. Abdel's get last point function sparked a lengthy debate regarding whether or not Abdels implementation was the most optimal way me and Abdel could implement. There was a second way I could implement the feature. Rather than pulling data from the database each time we want to add a new point, I came up with the idea of storing the most recent point in a JSON file first, and then adding it to the database after that. If we have a lot of data in the database, Abdel told me, it will take a few milliseconds for the response to come back, which is why he thinks the proposal is best implemented. However, by storing it in a JSON file, we can ensure that even with a large database, we can retrieve the data quickly.
  
 ---
 
-### 2022-04-29 Friday
+## 2022-04-29 Friday
  
 Our first meeting of the day was a discussion of the current sprint's accomplishments and plans for the upcoming one.
 In this sprint, I was unable to complete a new assignment other than continuing to work on the classification features.
 
 ---
+
+## 2022-05-03 Tuesday
+
+A new database map feature will soon be added to the database after Abdel and Joshua and I agreed to start working on an additional feature.
+
+I started to work on the classification functionality. i needed to to do many stuff such as writing the code as well as setting up every thing in the cloud service.
+
+this day i started with setting up every thing in the cloud service.
+
+---
+
+## 2022-05-04 wednesday
+
+This day me and Abdel started with writing the code that received an image and then sends the data to the cloud service to classify it and then upload the classification alongside with the image to firebase. 
+
+---
+
+## 2022-05-04 thuseday
+
+I wrote unit test code to test the code i have implemented and then made a pull request
+
+---
+
+## 2022-05-06 Friday
+
+We had a meeting where we discussed what we did in this sprint and what we would do in the next. I am open to new functionalities.
+
+---
+
+## 2022_05_10 Tuesday
+
+I worked on **createMap()** in the data_access_layer wich means creating a map in firebase . 
+
+---
+## 2022_05_12 Thursday
+
+I worked on **createMap()** in the testing layer to ensure the code is valid but i did not have the time to make a pull request.
+
+---
+## 2022-05-13 Friday
+
+Even though the meeting was canceled, we all recorded our activities in our group discord server, which we use to stay in touch.
+
+---
+
+## 2022-05-17 Tuesday
+
+me and Abdel worked on a bug where the niether the mower or the mobile team could comunicate with the server. After more than 3 hours I could found find one of the bugs in the code. so i made a pull request and added every thing github.
+
+---
+## 2022-05-19 Thursday
+
+First, we upgraded the server with the new code version, and then we ran the mower and mobile teams through their paces. Some of the features did not perform as planned, so the development teams set to work correcting them.
+
+---
+## 2022-05-20 Friday
+
+We continued our functional testing today. I and other members of the team have begun writing the necessary technical aspects and analyses and some required paperwork while others are testing.
+In order to use these images in the presentation, we filmed and recorded the mower and the mobile screen.
