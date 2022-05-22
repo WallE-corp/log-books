@@ -69,7 +69,7 @@ Switched the Raspberry Pi Zero to a Raspberry Pi 4.
 
 Weekly group meeting. Discussing what was left to do in the project. 
 
-#Q **2022-05-11**
+# **2022-05-11**
 
 Had to fix how we send and recieve data between the Arduino and Raspberry Pi due to data being overwritten. 
 
