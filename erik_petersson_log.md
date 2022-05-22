@@ -72,7 +72,7 @@ Weekly group meeting. Discussing what was left to do in the project.
 
 # **2022-05-11**
 
-Had to fix how we send and recieve data between the Arduino and Raspberry Pi due to data being overwritten. 
+The mower team worked on fixing how we send and recieve data between the Arduino and Raspberry Pi due to data being overwritten. 
 
 # **2022-05-12**
 
