@@ -34,3 +34,15 @@ Week 3 :
   - ablt to draw the json file map
   - the size of each lines adpat to the max size of the coordinates
   - still a problem handling negative numbers for the size of the lines
+  
+  Week 6:
+   
+   - meeting with husqvarna
+   - fixed the problem of drawing negative numbers
+   
+   Week 7:
+   
+   - changed the app.js function from app component back to function due to a problem with the sockets, that were not working in an app component
+   - fixed the draw map function because the format in witch the datas were sent by the back end changed, no more mapping because now it is a list
+   - added the fucntion to draw were the collisions happened
+   - a lot of minor fix as we are starting to merge everything and test everything together
