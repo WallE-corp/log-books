@@ -54,11 +54,12 @@ Setting up switch statement to handle automatic and manual mode.
 
 # **2022-04-29** 
 
-Weekly planning meeting. Next week we try to send (x,y) coordinates + images of objects to the backend. Bluetooth connection was also discussed, but no conclusion was drawn.
+Weekly planning meeting. Next week we try to send (x,y) coordinates + images of objects to the backend.
+Bluetooth connection was also discussed, but no conclusion was drawn.
 
 # **2022-05-04**
 
-Tested sending position data to backend (x,y) along with a image whern the robot detects an obstacle.
+Tested sending position data to backend (x,y) along with a image when the robot detects an obstacle.
 
 # **2022-05-05**
 
@@ -75,7 +76,8 @@ Had to fix how we send and recieve data between the Arduino and Raspberry Pi due
 
 # **2022-05-12**
 
-Worked on some minor issues with the turn functions. Made sure we were ready to test next week. 
+Worked on some minor issues with basic functions.
+Made sure we were ready to test next week. 
 
 # **2022-05-19**
 
@@ -83,5 +85,6 @@ Made sure that backend is recieving data.
 
 # **2022-05-20**
 
-Meeting with the whole team to finish the project. The mower squad worked on documentation and the lessons learned documentation. We also recorded the final video for the presentation. 
+Meeting with the whole team to finish the project. The mower squad worked on documentation and the lessons learned documentation.
+We also recorded the final video for the presentation. 
 
