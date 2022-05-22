@@ -81,7 +81,7 @@ Made sure we were ready to test next week.
 
 # **2022-05-19**
 
-Made sure that backend is recieving data.
+Made sure that backend is recieving data. The (x,y) cordinates along with the image and that they can save them in the firebase.
 
 # **2022-05-20**
 
