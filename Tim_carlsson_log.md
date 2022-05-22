@@ -41,3 +41,13 @@ Encountered some issues regarding sending and receiving data at the same time si
 
 ## 2022-05-12, Thursday.
 Resolved some minor issues with the basic functions, seemed to be an issue of low battery levels.
+
+## 2022-05-17, Tuesday.
+Ensured that the controling functionality of the robot through the socket communication works according to design by testing with the mobile directly.
+
+## 2022-05-19, Thursday.
+While waiting for some adjustments within the mobile application, we once again ensured that everything worked as expected by conducting tests with the "dummy" client. Thus ensuring that x and y coordinates are received alongside the images for obstacle events.
+
+## 2022-05-20, Friday.
+Primarily worked on the documentation part, more specifically the software design document and the lessons learnt document. Additional adjustments were made within the arduino code such as, reverting the change from cm/s to m/s in the velocity calculation, removed the inverting of the velocity due to retrieving the average value of both motors.
+
